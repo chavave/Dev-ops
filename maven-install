@@ -1,0 +1,4 @@
+URL:
+M2_HOME:D:\apache-maven-3.5.0
+path:D:\apache-maven-3.5.0\bin
+cmd->mvn -version
